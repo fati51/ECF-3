@@ -1,0 +1,12 @@
+body {
+    margin : 0;
+    padding :0;
+    /* Assurez-vous que l'image de fond couvre toute la page */
+background-size: auto;    /* Positionnez l'image de fond au centre */
+    background-position:center  -90%;
+    
+    /* Empêchez l'image de fond de se répéter */
+    background-repeat: no-repeat;
+    /* Spécifiez l'image de fond et ajustez le chemin */
+    background-image: url('image/Zevent_logo.png');
+}
